@@ -1,0 +1,47 @@
+.RightSide {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.navIcons {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navIcons > img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.r-button {
+  height: 3rem;
+  width: 80%;
+  align-self: center;
+}
+
+.Search {
+  display: flex;
+  justify-content: flex-end;
+  background-color: var(--inputColor);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.Search > input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.s-icon {
+  background: linear-gradient(106.23deg, #f99827, #f95f35 100%);
+  border-radius: 5px;
+  padding: 4px;
+  color: white;
+}
+
+.s-icon:hover {
+  cursor: pointer;
+}
