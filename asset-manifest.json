@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tarunnetwork/static/css/main.b5caf30c.css",
+    "main.js": "/tarunnetwork/static/js/main.bbbea152.js",
+    "static/media/postpic1.JPG": "/tarunnetwork/static/media/postpic1.7c15896ad9cf2361a940.JPG",
+    "static/media/postpic2.jpg": "/tarunnetwork/static/media/postpic2.6b40e240748b39a87f66.jpg",
+    "static/media/postpic3.jpg": "/tarunnetwork/static/media/postpic3.bdd76c99b2fb5922846b.jpg",
+    "static/media/profileImg.jpg": "/tarunnetwork/static/media/profileImg.f3e1bba1603c8978465a.jpg",
+    "index.html": "/tarunnetwork/index.html",
+    "main.b5caf30c.css.map": "/tarunnetwork/static/css/main.b5caf30c.css.map",
+    "main.bbbea152.js.map": "/tarunnetwork/static/js/main.bbbea152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5caf30c.css",
+    "static/js/main.bbbea152.js"
+  ]
+}
